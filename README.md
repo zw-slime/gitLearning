@@ -12,3 +12,5 @@ git checkout -b test4 创建分支并切换分支   git branch test1 新建分支  git checko
 git checkout -b test2 创建分支并切换分支   git branch test2 新建分支  git checkout test2 切换分支
 
 git branch 查看分支 
+git merge branch合并分支 但是合并记录不存在
+git merge --no-ff -m "merge with no-off" branch
