@@ -6,6 +6,6 @@
 
 傻瓜
 
-git checkout -b test1 创建分支并切换分支   git branch test1 新建分支  git checkout test1 切换分支
+git checkout -b test4 创建分支并切换分支   git branch test1 新建分支  git checkout test1 切换分支
 
 git branch 查看分支 
